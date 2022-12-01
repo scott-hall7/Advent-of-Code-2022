@@ -1,4 +1,4 @@
-// Gets input from html text content
+//  Gets input from html text content
 const input = document.body.textContent;
 
 
