@@ -10,4 +10,5 @@ Currently working through Advent of Code 2022 to see how far I can go.
  - [Day 1 Solution](https://github.com/scott-hall7/Advent-of-Code-2022/tree/main/Day%201)
  - [Day 2 Solution](https://github.com/scott-hall7/Advent-of-Code-2022/tree/main/Day%202)
  - [Day 3 Solution](https://github.com/scott-hall7/Advent-of-Code-2022/tree/main/Day%203)
+ - [Day 4 Solution](https://github.com/scott-hall7/Advent-of-Code-2022/tree/main/Day%204)
 
